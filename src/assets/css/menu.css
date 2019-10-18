@@ -1,0 +1,80 @@
+/*菜单*/
+/*.menu_bg{*/
+/*    position: fixed;*/
+/*    !*left: 0;*!*/
+/*    top: 0;*/
+/*    width: 7.5rem;*/
+/*    background: rgba(0,0,0,.4);*/
+/*    z-index: 99999;*/
+/*}*/
+.menu{
+    position: absolute;
+    /*left: 0;*/
+    top: 0;
+    width: 6.34rem;
+    background: #fff;
+
+}
+.menu_top{
+    height: 2.3rem;
+    background: #00A2ED;
+    padding-top: .24rem;
+}
+.menu_tit{
+    display: flex;
+    height: .7rem;
+    padding: 0 .33rem;
+}
+.menu_tit a{
+    display: inline-block;
+    width: .7rem;
+    height: .7rem;
+    border-radius: 50%;
+}
+.menu_tit img{
+    width: .7rem;
+    height: .7rem;
+    border-radius: 50%;
+}
+.menu_tit p{
+    font-size: .38rem;
+    line-height: .7rem;
+    color: #fff;
+    margin: 0 0 0 .2rem;
+}
+.action,.left_a,.right_a{
+    display: flex;
+    justify-content: space-between;
+}
+.action{
+    height: .34rem;
+    line-height: .34rem;
+    padding: 0 .5rem;
+    font-size: .29rem;
+    color: #fff;
+    margin-top: .7rem;
+}
+.left_a,.right_a{
+    width: 1.8rem;
+}
+.left_a span,.right_a span{
+    font-size: .32rem;
+}
+.menu_list li{
+    display: flex;
+    height: 1.04rem;
+    font-size: .3rem;
+    line-height: 1.04rem;
+    background: #F0F0F0;
+    padding: 0 .46rem;
+}
+.menu_list li span{
+    font-size: .4rem;
+    margin-right: .32rem;
+}
+.menu_list li p{
+    margin: 0;
+}
+.active{
+    color: #00A2ED
+}

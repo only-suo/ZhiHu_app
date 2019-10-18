@@ -1,0 +1,135 @@
+.comment{
+    width: 7.5rem;
+    margin: 0 auto;
+}
+.headc{
+    width: 7.5rem;
+    position: fixed;
+    top: 0;
+    display: flex;
+    justify-content: space-between;
+    height: 1.18rem;
+    line-height: 1.18rem;
+    background: #00A2ED;
+    padding: 0 .2rem;
+    z-index: 9999;
+}
+.headc span{
+    font-size: .5rem;
+    color: #fff;
+}
+.headc p{
+    height: 1.18rem;
+    font-size: 0.42rem;
+    /*vertical-align: .9rem;*/
+    /*line-height: .59rem;*/
+    color: #fff;
+    margin: 0;
+}
+.left_icon{
+    width: 3.05rem;
+    display: flex;
+    justify-content: space-between;
+    height: 1.18rem;
+    line-height: 1.18rem;
+    margin-left: .2rem;
+}
+
+.r_icon{
+    /*width: 1.5rem;*/
+    /*display: flex;*/
+    /*justify-content: space-between;*/
+}
+.r_icon span{
+    margin-right: .2rem;
+}
+.content{
+    margin-top: 1.18rem;
+}
+.top_long,.top_short{
+    height: .98rem;
+    line-height: .98rem;
+    padding: 0 .33rem;
+    display: flex;
+    justify-content: space-between;
+    font-size: .34rem;
+    color: #333;
+    border-bottom: 1px solid #D8D8D8;
+}
+.em span{
+    font-size: .2rem;
+}
+.com_list{
+    margin: 0;
+}
+.com_list li{
+    display: flex;
+    justify-content: space-between;
+    padding: .33rem;
+    border-bottom: 1px solid #D8D8D8;
+}
+.com_list li .left_tu{
+    display: inline-block;
+    width: .8rem;
+    height: .8rem;
+    /*border: 1px solid;*/
+    border-radius: 50%;
+}
+.left_tu img{
+    width: .8rem;
+    height: .8rem;
+    border-radius: 50%;
+}
+.com_list li .right_box{
+    width: 5.8rem;
+    font-size: .35rem;
+}
+.right_box .r_title{
+    display: flex;
+    justify-content: space-between;
+    height: .6rem;
+}
+.r_title h2{
+    font-weight: bold;
+    margin: 0;
+}
+.r_title span i{
+    margin-left: .1rem
+}
+.com_text{
+    color: #333;
+}
+.com_time{
+    font-size: .3rem;
+    margin: 0;
+    color: #AAAAAA;
+}
+.null{
+    position: relative;
+    width: 100%;
+    /*height: 3rem;*/
+    line-height: 3rem;
+    text-align: center;
+    border-bottom: 1px solid #D8D8D8;
+}
+.null_box{
+    position: absolute;
+    top: 50%;
+    left: 0;
+    width: 7.5rem;
+    height: 5rem;
+    margin-top: -2.5rem;
+}
+.null_box h2{
+    line-height: .4rem;
+    height: .4rem;
+    font-size: .4rem;
+    margin: .4rem 0;
+}
+.null_box img{
+    display: block;
+    width: 3.6rem;
+    height: 3.6rem;
+    margin: 0 auto;
+}
+

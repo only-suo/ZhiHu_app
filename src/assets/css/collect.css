@@ -1,0 +1,115 @@
+.collect{
+    width: 7.5rem;
+    margin: 0 auto;
+}
+
+.heado{
+    width: 7.5rem;
+    position: fixed;
+    top: 0;
+    display: flex;
+    height: 1.18rem;
+    line-height: 1.18rem;
+    background: #00A2ED;
+    padding: 0 .2rem;
+    z-index: 9990;
+    /*border: 1px solid red;*/
+}
+.heado span{
+    font-size: .5rem;
+    color: #fff;
+}
+.heado p{
+    height: 1.18rem;
+    font-size: 0.4rem;
+    color: #fff;
+    margin: 0;
+}
+.left_ico{
+    display: flex;
+    justify-content: space-between;
+    width: 3rem;
+    height: 1.18rem;
+    line-height: 1.18rem;
+}
+
+/*.news_box h2{*/
+/*    font-size: .3rem;*/
+/*    height: 1.1rem;*/
+/*    line-height: 1.1rem;*/
+/*    padding-left: .3rem;*/
+/*    margin: 0;*/
+/*    color: #5D5D5D;*/
+/*}*/
+.news_box{
+    margin-top: 1.35rem;
+    /*border: 1px solid red;*/
+}
+.news_list{
+    /*padding: 0 .15rem .15rem;*/
+    padding: 0 .15rem;
+    margin-bottom: 0;
+}
+.news_list li{
+    height: 2.04rem;
+    border: 1px solid #ccc;
+    border-radius: .14rem;
+    margin-bottom: .15rem;
+    padding: .24rem .34rem;
+    background: #fff;
+}
+.news_list li:last-child{
+    margin-bottom: 0;
+}
+
+.news_info{
+    display: flex;
+    justify-content: space-between;
+    color: #000;
+}
+.news_info p{
+    font-size: .38rem;
+    line-height: .5rem;
+    /*font-weight: bold;*/
+    margin: 0;
+    /*超出三行 显示省略号*/
+    overflow: hidden;
+    -webkit-line-clamp: 3;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+}
+.news_info .img_box{
+    display: block;
+    width: 1.7rem;
+    height: 1.5rem;
+    /*border: 1px solid;*/
+}
+.news_info img{
+    display: block;
+    width: 1.7rem;
+    height: 1.5rem;
+    /*border: 1px solid #000;*/
+}
+/*侧面菜单*/
+.my-drawer {
+    position: relative;
+    overflow: auto;
+    -webkit-overflow-scrolling: touch;
+    /*border: 1px solid red;*/
+    z-index: 9991;
+    /*left: 0;*/
+}
+.my-drawer .am-drawer-sidebar {
+    background-color: #fff;
+    overflow: auto;
+    -webkit-overflow-scrolling: touch;
+    /*border: 1px solid green;*/
+}
+.my-drawer .am-drawer-sidebar .am-list {
+    width: 6.34rem;
+    padding: 0;
+}
+.am-drawer-content{
+    width: 0;
+}

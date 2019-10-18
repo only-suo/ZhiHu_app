@@ -1,0 +1,184 @@
+{
+  "id": "1273445",
+  "name": "font_1",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "485770",
+      "name": "消息中心",
+      "font_class": "xiaoxizhongxin",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    },
+    {
+      "icon_id": "578031",
+      "name": "消息",
+      "font_class": "xiaoxi",
+      "unicode": "e672",
+      "unicode_decimal": 58994
+    },
+    {
+      "icon_id": "634603",
+      "name": "写_write18",
+      "font_class": "xiewrite18",
+      "unicode": "e71b",
+      "unicode_decimal": 59163
+    },
+    {
+      "icon_id": "683284",
+      "name": "收藏",
+      "font_class": "shoucang",
+      "unicode": "e65f",
+      "unicode_decimal": 58975
+    },
+    {
+      "icon_id": "688583",
+      "name": "点赞",
+      "font_class": "dianzan",
+      "unicode": "e673",
+      "unicode_decimal": 58995
+    },
+    {
+      "icon_id": "691114",
+      "name": "分享",
+      "font_class": "fenxiang",
+      "unicode": "e633",
+      "unicode_decimal": 58931
+    },
+    {
+      "icon_id": "737264",
+      "name": "返回",
+      "font_class": "fanhui",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "879161",
+      "name": "菜单",
+      "font_class": "ego-menu",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "1244197",
+      "name": "印象笔记",
+      "font_class": "yinxiangbiji",
+      "unicode": "e695",
+      "unicode_decimal": 59029
+    },
+    {
+      "icon_id": "1244212",
+      "name": "有道云笔记",
+      "font_class": "youdaoyunbiji1",
+      "unicode": "e69c",
+      "unicode_decimal": 59036
+    },
+    {
+      "icon_id": "1246329",
+      "name": "分享_微信朋友圈",
+      "font_class": "fenxiangweixinpengyouquan",
+      "unicode": "e66a",
+      "unicode_decimal": 58986
+    },
+    {
+      "icon_id": "1346680",
+      "name": "下载 (1)",
+      "font_class": "xiazai1",
+      "unicode": "e639",
+      "unicode_decimal": 58937
+    },
+    {
+      "icon_id": "1368050",
+      "name": "微信",
+      "font_class": "weixin",
+      "unicode": "e637",
+      "unicode_decimal": 58935
+    },
+    {
+      "icon_id": "1727435",
+      "name": "211铃铛",
+      "font_class": "lingdang",
+      "unicode": "e8c0",
+      "unicode_decimal": 59584
+    },
+    {
+      "icon_id": "2377157",
+      "name": "QQ",
+      "font_class": "QQ",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    },
+    {
+      "icon_id": "2480667",
+      "name": "首页",
+      "font_class": "shouye",
+      "unicode": "e630",
+      "unicode_decimal": 58928
+    },
+    {
+      "icon_id": "4546492",
+      "name": "weibo",
+      "font_class": "weibo",
+      "unicode": "e636",
+      "unicode_decimal": 58934
+    },
+    {
+      "icon_id": "4867071",
+      "name": "更多",
+      "font_class": "gengduo",
+      "unicode": "e64c",
+      "unicode_decimal": 58956
+    },
+    {
+      "icon_id": "5743620",
+      "name": "有道云笔记(1)",
+      "font_class": "youdaoyunbiji",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "10075566",
+      "name": "下  拉",
+      "font_class": "xiala",
+      "unicode": "e8b3",
+      "unicode_decimal": 59571
+    },
+    {
+      "icon_id": "10179457",
+      "name": "更多",
+      "font_class": "gengduo1",
+      "unicode": "e6dd",
+      "unicode_decimal": 59101
+    },
+    {
+      "icon_id": "10185125",
+      "name": "下  拉",
+      "font_class": "xiala1",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "11319714",
+      "name": "分享_微信朋友圈",
+      "font_class": "fenxiangweixinpengyouquan-copy",
+      "unicode": "e8c1",
+      "unicode_decimal": 59585
+    },
+    {
+      "icon_id": "11331145",
+      "name": "下  拉",
+      "font_class": "xia-up",
+      "unicode": "e8c2",
+      "unicode_decimal": 59586
+    },
+    {
+      "icon_id": "11331158",
+      "name": "下  拉",
+      "font_class": "xia-down",
+      "unicode": "e8c4",
+      "unicode_decimal": 59588
+    }
+  ]
+}

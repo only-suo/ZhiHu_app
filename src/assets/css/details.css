@@ -1,0 +1,130 @@
+.details{
+    width: 7.5rem;
+    margin: 0 auto;
+    background: #fff;
+    position: relative;
+}
+.heads{
+    width: 7.5rem;
+    position: fixed;
+    top: 0;
+    display: flex;
+    justify-content: space-between;
+    height: 1.18rem;
+    line-height: 1.18rem;
+    background: #00A2ED;
+    padding: 0 .2rem;
+    z-index: 9999;
+}
+.heads span{
+    font-size: .5rem;
+    color: #fff;
+}
+.left_i{
+    /*margin-left: .4rem;*/
+    margin-left: .2rem;
+    height: 1.18rem;
+    line-height: 1.18rem;
+}
+
+.right_i{
+    width: 5rem;
+    display: flex;
+    justify-content: space-around;
+}
+.right_i span i{
+    display: inline-block;
+    height: .5rem;
+    line-height: .5rem;
+    font-size: .3rem;
+    vertical-align: .06rem;
+    margin-left: .08rem;
+}
+
+.cont{
+    margin-top: 1.18rem;
+}
+.headline .img-place-holder{
+    height: 3.5rem !important;
+    position: relative;
+}
+.img-place-holder p{
+    position: absolute;
+    bottom: 0;
+    font-size: .4rem;
+    /*color: #f1f1f1;*/
+    color: #fff;
+    z-index: 999;
+    /*margin: 0 !important;*/
+    /*margin: 0 !important;*/
+    padding: 0 .2rem;
+}
+.img-place-holder img{
+    background: rgba(0,0,0,.4);
+}
+.icon-xiaoxi{
+    padding-top: .02rem;
+}
+/*.share_box{*/
+/*    position: fixed;*/
+/*    width: 7.5rem;*/
+/*    height: 100%;*/
+/*    background: #000;*/
+/*}*/
+.s_box{
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-left: -3.32rem;
+    margin-top: -3.76rem;
+    width: 6.64rem;
+    height: 7.52rem;
+    background: #fff;
+    border-radius: .08rem;
+    /*border: 1px solid #000;*/
+    z-index: 9999999;
+}
+
+.s_box h2{
+    height: 1.2rem;
+    line-height: 1.2rem;
+    font-size: .4rem;
+    margin: 0;
+    padding: .1rem .5rem 0;
+}
+.icon_list{
+    padding: 0;
+}
+.icon_list li{
+    float: left;
+    width: 33.33%;
+    height: 1.9rem;
+    text-align: center;
+}
+.icon_list li span{
+    font-size: 1.12rem;
+}
+.icon_list li span i{
+    display: block;
+    color: #7C7C7C;
+    font-size: .26rem;
+    margin-top: -.2rem;
+}
+.youdao,.xiang{
+    display: inline-block;
+    width: 1.1rem;
+    height: 1.1rem;
+    background: #30A1ED;
+    border-radius: 50%;
+    margin: .3rem 0 .1rem;
+}
+.xiang{
+    background: #5AB540;
+}
+
+.img-place-holder img{
+    width: 100%;
+    height: 100%;
+}
+
+
